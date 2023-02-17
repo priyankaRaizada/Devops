@@ -1,0 +1,6 @@
+Hello World this is my Second Devops File
+To track git Vertion need to usr Git -initial which tracks the git version initialise 
+the file is save as hidden with .git where . denotes hidden file and can only be viewed 
+with ls -ltra a is used here
+
+End. 
